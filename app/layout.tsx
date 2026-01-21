@@ -11,8 +11,9 @@ export const metadata: Metadata = {
   title: 'EduManager - Plateforme de gestion pédagogique',
   description: 'Gérez vos formations avec simplicité et efficacité.',
   icons: {
-    icon: '/icon.svg',
-    apple: '/icon.svg',
+    icon: '/Education-Logo.jpg',
+    icon: '/Education-Logo.jpg?v=1',
+    apple: '/Education-Logo.jpg',
   },
 }
 
