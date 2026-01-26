@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: 'EduManager - Plateforme de gestion pédagogique',
   description: 'Gérez vos formations avec simplicité et efficacité.',
   },
-}
+
 
 export default function RootLayout({
   children,
