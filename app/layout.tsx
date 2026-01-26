@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'EduManager - Plateforme de gestion pédagogique',
   description: 'Gérez vos formations avec simplicité et efficacité.',
-  },
+  }
 
 
 export default function RootLayout({
